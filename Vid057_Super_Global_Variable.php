@@ -9,4 +9,6 @@ print_r($GLOBALS);// displays the details of all the user-defined global variabl
 //print_r($_Cookies); Display the temporary data for website visited for 1st time
 //print_r($_Session); data remain maintained
 //print_r($_Env); details of the environment being used
+session_start();
+print_r($_SESSION);// from Vid062; stored in whole website;localhost is used
 ?>
