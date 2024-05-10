@@ -1,0 +1,21 @@
+MySql is database management system. Structured collection of data.
+Database: Data stored in tables
+Developed by Oracle(Types: Oracle; MySql);
+
+_______________074__________________
+
+Connect database using some programming language.
+MySql(database system):  MariaDB(database)
+Datbase and PHP:
+install xampp
+Mysql instal autpmatically
+code to connect with database
+Learn more: https://www.youtube.com/watch?v=cftyioKxVbM&list=PL8p2I9GklV44cSOlKzB_0TrzxEgwfvicK&index=75
+Video 76: https://www.youtube.com/watch?v=lnt2pUjG-nM&list=PL8p2I9GklV44cSOlKzB_0TrzxEgwfvicK&index=77
+
+Video 77:https://www.youtube.com/watch?v=QhBLeQpVvAQ&list=PL8p2I9GklV44cSOlKzB_0TrzxEgwfvicK&index=77
+
+video78:https://www.youtube.com/watch?v=xXlSx-X_bvA&list=PL8p2I9GklV44cSOlKzB_0TrzxEgwfvicK&index=78
+
+Video:79:https://www.youtube.com/watch?v=ortvMbgjlns&list=PL8p2I9GklV44cSOlKzB_0TrzxEgwfvicK&index=79
+Video80: repeat
