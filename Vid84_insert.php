@@ -8,7 +8,7 @@ if(isset($_POST['name'])){
     $name = $_POST['name'];
     $subject =$_POST['subject'];
 
-    include('./Vid083_config.php');
+    include('./Vid83_config.php');
 $query=$conn->prepare("Insert into `test` (`id`,`name`,`subject`) values(NULL, '$name', '$subject')");
 $result=$query->execute();
 if($result){

@@ -1,5 +1,5 @@
 <?php
-include('./Vid083_config.php');
+include('./Vid83_config.php');
 $gettickets=$conn->prepare("Select * from ost_ticket__cdata");
 $gettickets->execute();
 $tickets=$gettickets->fetchAll();

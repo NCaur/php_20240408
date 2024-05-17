@@ -1,5 +1,5 @@
 <?php
-include("./Vid083_config.php");
+include("./Vid83_config.php");
 $getStudent = $conn->prepare("Select id,name from test");
 $getStudent->execute();
 $studata= $getStudent->fetchAll();
